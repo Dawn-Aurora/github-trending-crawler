@@ -1,0 +1,14 @@
+[
+  {
+    "name": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "stars": "160000"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": "120000"
+  }
+]
